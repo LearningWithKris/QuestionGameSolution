@@ -1,0 +1,17 @@
+Q1|What is the capital of Indiana?
+C1|Seymour
+C2|Columbus
+C3|New Washington
+C4|Fort Wayne
+C5|Indianapolis
+A|C5
+Q2|The earth has more?
+C1|Land mass
+C2|Water mass
+A|C2
+Q3|What is the most published book in the world?
+C1|Harry Potter
+C2|Purpose Driven Life
+C3|Christian Bible
+C4|Koran
+A|C3
