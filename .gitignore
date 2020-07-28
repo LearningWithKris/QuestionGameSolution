@@ -1,0 +1,17 @@
+# User Specific Files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.mdf
+*.ldf
+
+# Build Results
+[Dd]ebug
+[Rr]elease
+[Bb]in
+[Oo]bj
+
+# Visiual Studio 2015 Cache/Options Directory
+.vs/
