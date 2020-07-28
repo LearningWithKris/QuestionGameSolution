@@ -18,8 +18,12 @@ namespace QuestionGame
                 Console.WriteLine(question.QuestionText);
 
                 // Need to display the question answer choices.
-
+                foreach (var choice in question.AnswerOptions)
+                {
+                    Console.WriteLine(choice);
+                }
                 Console.Write("Your answer is? ");
+                
                 Console.ReadLine();
             }
         }

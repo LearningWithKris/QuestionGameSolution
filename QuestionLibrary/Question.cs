@@ -10,6 +10,7 @@ namespace QuestionLibrary
     {
         public string QuestionText { get; set; }
         public List<string> AnswerOptions { get; set; }
+        public string hat { get; set; } 
 
         public static List<Question> LoadQuestions()
         {
@@ -23,6 +24,8 @@ namespace QuestionLibrary
                     QuestionText = "What is the capital of Indiana?",
                     AnswerOptions = new List<string>() { "Seymour", "Columbus", "New Washington", "Fort Wayne", "Indianapolis" }
                 });
+                //start reading file
+
             }
             catch (Exception ex)
             {
